@@ -37,6 +37,6 @@ Now you're ready to go!
 ## How to Run
 Open command prompt and execute the command:
 ```bash
-python start.py
+python main.py
 ```
 
