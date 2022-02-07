@@ -17,7 +17,7 @@ Agora está tudo pronto para executar!
 ## Como executar
 Abra o prompt de comando e execute:
 ```bash
-python start.py
+python main.py
 ```
 # English
 ## Python Version
